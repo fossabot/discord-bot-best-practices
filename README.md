@@ -1,4 +1,6 @@
 # Best practices for Discord bots
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdiscord-bot-best-practices.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdiscord-bot-best-practices?ref=badge_shield)
+
 
 
 *NB: These guidelines are intended for bots running on public servers. If your
@@ -44,3 +46,7 @@ All NSFW commands/features should only work in (Discord) NSFW-marked channels.
 
 If you have an idea for an addition or change to this document, please make a
 pull request and we can discuss it.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdiscord-bot-best-practices.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdiscord-bot-best-practices?ref=badge_large)
